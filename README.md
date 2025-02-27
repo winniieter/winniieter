@@ -4,7 +4,9 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Winnieter&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p> 18 anos - ela/dela <br/> Estudante de Ciência da Computação <br/> Trabalhando na ABS - American Bureau of Shipping
+<p> 18 anos - ela/dela <br/> Estudante de Ciência da Computação <br/> Trabalhando na ABS - American Bureau of Shipping <br/> UI/UX
+
+
 
 <div align="center">
   
